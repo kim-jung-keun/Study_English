@@ -37,9 +37,9 @@
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기
    - 느낌적인 느낌으로 풀어보기 ( 스펠링 주의!! )
    1) secretly
-   2) officelly reveral
+   2) officially reveral
    3) sole mission track down
-   4) get rid of secuerity flaw
+   4) get rid of security flaw
    5) flaws zero day vulnerabilities
    6) common target cyber crimals
    7) ?
