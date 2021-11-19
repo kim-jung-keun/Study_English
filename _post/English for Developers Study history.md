@@ -35,18 +35,18 @@
    9) deserve to V
    10) ruin
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기
-   느낌적인 느낌으로 풀어보기 ( 스펠링 주의!! )
-   secretly
-   officelly reveral
-   sole mission track down
-   get rid of secuerity flaw
-   flaws zero day vulnerabilities
-   common target cyber crimals
-   ??
-   ??
-   free of ??
-   policy
-
+   - 느낌적인 느낌으로 풀어보기 ( 스펠링 주의!! )
+   1) secretly
+   2) officelly reveral
+   3) sole mission track down
+   4) get rid of secuerity flaw
+   5) flaws zero day vulnerabilities
+   6) common target cyber crimals
+   7) ?
+   8) ?
+   9) free of ??
+   10) policy
 ## Step5. 토론해보기
+   PASS
 
 ## Step6. 번역 확인하기
