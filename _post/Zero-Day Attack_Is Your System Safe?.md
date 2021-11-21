@@ -5,14 +5,19 @@
  - to 부정사 : 명사, 형용사, 부사
  - 동명사 : 동사를 명사적으로 활용 ~ing 형태로 [~하기, ~ 하는 것] 등으로 해석
  - 접속사 : though, On the other hand, Simply put, In short
- improve
- exploit
- measures
- prevent
- intrusion
- presence 
+  1) improve
+  2) exploit
+  3) measures
+  4) prevent
+  5) intrusion
+  6) presence 
+  
 ## Step2. 지문 읽어보기
+
 ## Step3. 단어 & 숙어
+
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기
+
 ## Step5. 토론해보기
+
 ## Step6. 번역 확인하기
