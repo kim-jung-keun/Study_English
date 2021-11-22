@@ -13,6 +13,20 @@
   6) presence 
   
 ## Step2. 지문 읽어보기
+ - 제로데이 어택에 대한 정의와 시스템 보호를 위한 방법들 소개
+ - 매우 낮은 수준의 해석이 됨 ( 단어 때문이 아님 )
+  1) dig
+  2) abusing
+  3) taking advantage of
+  4) term
+  5) often shortened
+  6) due to
+  7) commonsense approach
+  8) suspicious
+  9) establish certain
+  10) ensure
+  11) intrusion
+  12) prevent
 
 ## Step3. 단어 & 숙어
 
