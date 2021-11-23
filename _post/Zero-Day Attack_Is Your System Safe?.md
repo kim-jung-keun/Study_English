@@ -29,7 +29,27 @@
   12) prevent
 
 ## Step3. 단어 & 숙어
-
+ - Step3 이후 확실히 해석이 좋아짐
+  1) uncover
+  2) refer to
+  3) presencs
+  4) abuse
+  5) gain access to
+  6) shorten
+  7) public disclosure
+  8) exploitation
+  9) address
+  10) due to
+  11) nature
+  12) take measures
+  13) commonsense
+  14) essential
+  15) suspicious
+  16) establish
+  17) security procedure
+  18) ensure
+  19) safty pracitice
+  20) intrusion detection
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기
 
 ## Step5. 토론해보기
