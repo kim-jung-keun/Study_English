@@ -51,7 +51,19 @@
   19) safty pracitice
   20) intrusion detection
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기
-
+  1) vuleralites refer to a flaw
+  2) ? a vuleratie
+  3) ? harm
+  4) state ? vulerality
+  5) On the other hand dangerous
+  6) Exploiting act
+  7) ? ?  ?
+  8) attackers ? vuleralities
+  9) ? ? exploit code
+  10) exploit code
+  11) shorten exploit
+  12) in short vuleralities hole
+  - vuleralites 와 exploit 사용이 너무 헷갈림
 ## Step5. 토론해보기
 
 ## Step6. 번역 확인하기
