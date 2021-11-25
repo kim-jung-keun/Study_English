@@ -65,5 +65,9 @@
   12) in short vuleralities hole
   - vuleralites 와 exploit 사용이 너무 헷갈림
 ## Step5. 토론해보기
-
+  PASS
 ## Step6. 번역 확인하기
+  번역 확인 완
+  전반적인 나쁘지 않은 해석
+  제로데이와 취약성을 집중적으로 설명하는 부분에서
+  의미적으로 해석이 모호한 
