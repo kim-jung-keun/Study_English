@@ -39,8 +39,19 @@
   11) manual instruction
   12) verify
   
-## Step4. 손을써서 읽히기 & 문제풀고 생각해보기
-
+## Step4. 손을써서 읽히기 & 문제풀고 생각해보기 
+  -- 스펠링 노답...
+  1) adware
+  2) advertisment
+  3) adware, advertisment
+  4) adware, ?, malware
+  5) security, experts, malware
+  6) bad case
+  7) fake, self, ?, root certicates
+  8) hijacking, inject
 ## Step5. 토론해보기
 
 ## Step6. 번역 확인하기
+ - 나쁘지 않은 번역
+ - 아직 수행이 부족함 ㅋ
+ - 기본 문법에 약간 익숙해지기 
