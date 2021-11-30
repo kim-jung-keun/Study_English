@@ -11,7 +11,7 @@
   8) adjust
   
 ## Step2. 지문 읽어보기
-  - 살짝 어려운?
+  - 할만한 지문
   1) diminish
   2) Either
   3) anonymous
@@ -20,6 +20,18 @@
   6) entire
  
 ## Step3. 단어 & 숙어
+  1) diminsh
+  2) more precisely
+  3) be committed to ~ing
+  4) care about
+  5) either way
+  6) stay on top of
+  7) fortunately
+  8) adjust
+  9) properly
+  10) supposedly
+  11) entire search history
+  12) opt out of
   
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기 
   
