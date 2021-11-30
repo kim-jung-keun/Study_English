@@ -11,7 +11,9 @@
   8) adjust
   
 ## Step2. 지문 읽어보기
-  
+  - 살짝 어려운?
+  1) diminish
+  2) Either
 ## Step3. 단어 & 숙어
   
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기 
