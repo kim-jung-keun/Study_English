@@ -14,6 +14,11 @@
   - 살짝 어려운?
   1) diminish
   2) Either
+  3) anonymous
+  4) properly
+  5) variety
+  6) entire
+ 
 ## Step3. 단어 & 숙어
   
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기 
