@@ -34,6 +34,25 @@
   12) opt out of
   
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기 
+  1) add new feature
+  2) ? ? ?
+  3) features is optional
+  4) ? ? ?
+  5) ? ?
+  6) ? turn on
+  7) forever
+  8) make money
+  9) sell your information 
+  10) advertiger
+  11) ? ?
+  12) collect ? all data
+  13) ? ? ? ?
+  14) ? ?
+  15) sell it
+  16) to advertiger
+  17) ? protect to privatcy
+  18) ? ? ? ?
+  ---- 너무 엉망이라 다시 공부하고 다시 할것.....
   
 ## Step5. 토론해보기
 
