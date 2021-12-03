@@ -52,9 +52,34 @@
   16) to advertiger
   17) ? protect to privatcy
   18) ? ? ? ?
-
   ---- 너무 엉망이라 다시 공부하고 다시 할것.....  전체 
+  >>Re Try
+  1) adding new features
+  2) diminish your privacy
+  3) features are optional
+  4) open turn out it
+  5) by defualt
+  6) keep turn on
+  7) forever
+  8) makes money
+  9) selling your imformation
+  10) advertisers
+  11) ? ?
+  12) collect to all data
+  13) divide to the category
+  14) make by anomous
+  15) sell it
+  16) to advertisers
+  17) commited
+  18) protected for privacy
+  19) ? ? ? ?
+  20) either way
+  21) ? ? ? ?
+  22) your of setting privacy
+  23) make sure
+  24) ? information protected
   
 ## Step5. 토론해보기
-
+ PASS
 ## Step6. 번역 확인하기
+Not bad
