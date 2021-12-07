@@ -13,8 +13,27 @@
   7) bundled
   8) disrupt
 ## Step2. 지문 읽어보기
- 
+  - 생각보다 잘 읽힘
+  1) disrupt
+  2) nasty
+  3) along with
+  4) another party
+  5) identity
+  6) corrupt
+  7) locks up
+  8) demands ransom
+  9) hostage
+  10) paid
+  11) potentially
+  12) prevention
+
 ## Step3. 단어 & 숙어
+   1) various
+   2) nasty
+   3) disrupt
+   4) along with
+   5) ransom
+   6) hold a person hostage   
  
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기 
  
