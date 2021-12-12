@@ -10,7 +10,7 @@
   
 ## Step2. 지문 읽어보기
   1) doorstep
-  2) litup
+  2) lit up
   3) discussion
   4) speculation
   5) concern
