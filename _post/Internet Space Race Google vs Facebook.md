@@ -9,12 +9,34 @@
   7) manufacturer
   
 ## Step2. 지문 읽어보기
+  - 어렵다 이번 지문..
   1) doorstep
   2) lit up
   3) discussion
   4) speculation
   5) concern
   6) kickstart
+  7) struggleing
+  8) approval
+  9) bring
+  10) entirely
+  11) altruistic
+  12) dominance
+  13) strides
+  14) rural
+  15) coverage
+  16) disasters
+  17) beaming
+  18) acquired
+  19) altitude
+  20) beam
+  21) globe
+  22) accessible
+  23) affordable
+  24) satellites
+  25) roughly
+  26) commercial
+  27) perhaps
 
 ## Step3. 단어 & 숙어
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기
