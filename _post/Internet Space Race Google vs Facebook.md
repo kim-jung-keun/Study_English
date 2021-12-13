@@ -1,4 +1,5 @@
-# [Unit1] Google's Elite Security Team, Project Zero
+# [Unit7] Internet Space Race Google vs Facebook
+
 ## Step1. 핵심 문법 들여다보기
   1) 현재완료 시제 익히기 (have/has + 과거분사) : 과거의 일이 현재까지 영향을 미치는 것
   2) 관계대명사 which : 선행사가 사물이거나 문장 전체일때 사용 (규칙과 원리 이해가 중요)
