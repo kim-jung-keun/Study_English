@@ -55,6 +55,9 @@
   13) strides
   14) rural
   15) coverage
+  16) lit up with 
+  17) aviation
+  18) altuistic
 
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기
 ## Step5. 토론해보기
