@@ -40,24 +40,30 @@
   27) perhaps
 
 ## Step3. 단어 & 숙어
-  1) doorstep
-  2) lit up
-  3) discussion
-  4) speculation
-  5) concern
-  6) kickstart
-  7) struggleing
-  8) approval
-  9) bring
-  10) entirely
-  11) altruistic
-  12) dominance
-  13) strides
-  14) rural
-  15) coverage
-  16) lit up with 
-  17) aviation
-  18) altuistic
+   1) lit up with
+   2) discussion
+   3) speculation
+   4) concern
+   5) kickstart
+   6) struggle to V
+   7) approval
+   8) aviation
+   9) altristic
+   10) translate to
+   11) dominance
+   12) make great strides
+   13) rural area
+   14) remote area
+   15) coverage gap
+   16) -beaming
+   17) last
+   18) afloat
+   19) complement
+   20) make progress
+   21) acquire
+   22) altitude
+   23) accessible
+   24) affordable
 
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기
 ## Step5. 토론해보기
