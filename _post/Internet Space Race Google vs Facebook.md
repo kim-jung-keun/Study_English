@@ -41,7 +41,7 @@
 
 ## Step3. 단어 & 숙어
 | 단어 | 뜻 | 단어 | 뜻 |
-|:----:|:--:|:---:|:--:|
+|:----|:--:|:---|:--:|
 | lit up with  | - | translate to       | - |
 | discussion   | - | dominance          | - |
 | speculation  | - | make great strides | - |
