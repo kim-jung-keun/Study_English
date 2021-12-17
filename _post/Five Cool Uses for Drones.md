@@ -1,7 +1,7 @@
 # [Unit8] Five Cool Uses for Drones
 
 ## Step1. 핵심 문법 들여다보기
-  
+  1) 
   
 ## Step2. 지문 읽어보기
  
@@ -13,6 +13,7 @@
   
   
 ## Step5. 토론해보기
+
  
 ## Step6. 번역 확인하기
 
