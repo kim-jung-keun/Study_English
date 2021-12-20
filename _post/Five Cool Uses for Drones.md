@@ -9,7 +9,16 @@
   6) tropical
   
 ## Step2. 지문 읽어보기
-  
+  | 단어 | 뜻 | 단어 | 뜻 |
+  |------|:--:|-----|:--:|
+  | unmanned |-| aerial |-|
+  | surprising |-| tropical |-|
+  | massive |-| humidity |-|
+  | prediction |-| landscape |-|
+  | fascinating |-| distibution |-|
+  | infrare |-| crop |-|
+  | photosynthetic |-| efficiency |-|
+  | responder |-| |-|
  
 ## Step3. 단어 & 숙어
  
