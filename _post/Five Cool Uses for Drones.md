@@ -9,7 +9,7 @@
   6) tropical
   
 ## Step2. 지문 읽어보기
- 
+  
  
 ## Step3. 단어 & 숙어
  
