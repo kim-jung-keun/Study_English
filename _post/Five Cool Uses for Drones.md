@@ -20,7 +20,7 @@
   | photosynthetic |-| efficiency |-|
   | responder |-| |-|
   
- :) 낫 배드 근데 제대로 해석된지 확인 다시 
+ :) 낫 배드 근데 제대로 해석된지 확인 다시 필요
 ## Step3. 단어 & 숙어
  
   
