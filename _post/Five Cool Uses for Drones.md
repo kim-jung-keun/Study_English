@@ -22,8 +22,18 @@
   
  :) 낫 배드 근데 제대로 해석된지 확인 다시 필요
 ## Step3. 단어 & 숙어
+  | 단어 | 뜻 | 단어 | 뜻 |
+  |------|:--:|-----|:--:|
+  | aerial | 항공의 | distribution | 분포 |
+  | a swarm of | ~무리, 떼 | density | 밀도 |
+  | water current | 해류 | yield | 산출량 |
+  | massive | 거대한 | close inspection | 면밀한 검사 |
+  | humidity | 습도 | infrared light | 적외선 |
+  | piece | 조각을 잇다 | photosynthetic efficiency | 광합성 효율 |
+  | fascinating | 매혹적인 | first responder | 응급 구조 요원 |
+  | conservancy | 관리단 | Dutch | 네덜란드의 |
+  | identify | 알아내다 | heart attack patient | 심장마비 환자 |
  
-  
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기 
   
   
