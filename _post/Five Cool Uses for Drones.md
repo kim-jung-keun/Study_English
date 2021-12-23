@@ -35,10 +35,13 @@
   | identify | 알아내다 | heart attack patient | 심장마비 환자 |
  
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기 
-  
+   PASS
   
 ## Step5. 토론해보기
-
+  1) b
+  2) d
+  3) 군사목적
+  4) 앰뷸런스, 해변인명구조
  
 ## Step6. 번역 확인하기
 
