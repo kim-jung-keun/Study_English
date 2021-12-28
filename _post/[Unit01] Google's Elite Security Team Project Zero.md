@@ -7,33 +7,20 @@
 
 ## Step2. 지문 읽어보기
  - 구글의 보안팀이 하는 일과 그곳이 다른 유망 IT 업계에 미친 영향 
- - 모르는 단어 및 어설프게 알고있던 단어들
-   1) allowed
-   2) sue
-   3) settle
-   4) discover
-   5) reveal
-   6) flaw
-   7) vulnerabilities
-   8) disclosure
-   9) indicate
-   10) strict
-   11) disclosed
-   12) crticized
-   13) grace period
-   14) deserve
-   15) ruin
+  
 ## Step3. 단어 & 숙어
-   1) exclusive partership
-   2) scramble to V
-   3) settle
-   4) reveal
-   5) sole
-   6) flaw
-   7) disclosure
-   8) come under fire
-   9) deserve to V
-   10) ruin
+| 단어 | 뜻 | 단어 | 뜻 |
+|------|:--:|-----|:--:|
+| allowed | 허락하다 | deserve |~가치가 있다|
+| sue | 고소하다 | ruin |파멸, 손해|
+| settle | 해결하다 | exclusive partership |독점계약|
+| discover | 발견하다 | scramble to V |-|
+| reveal | 드러내다 | grace period |유예기간| 
+| flaw | 결점 | crticized |흡잡다|
+| vulnerabilities |취약성| sole |단 하나의|
+| disclosure |폭로| disclosed |드러내다|
+| indicate |나타나다| deserve to V |-|
+| strict |정밀한| come under fire |-|
 ## Step4. 손을써서 읽히기 & 문제풀고 생각해보기
    - 느낌적인 느낌으로 풀어보기 ( 스펠링 주의!! )
    1) secretly
