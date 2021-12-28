@@ -8,7 +8,7 @@
 ## Step2. 지문 읽어보기
  - 구글의 보안팀이 하는 일과 그곳이 다른 유망 IT 업계에 미친 영향 
  - 모르는 단어 및 어설프게 알고있던 단어들
-   1) allowe
+   1) allowed
    2) sue
    3) settle
    4) discover
